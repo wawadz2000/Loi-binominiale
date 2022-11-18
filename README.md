@@ -1,6 +1,6 @@
 # Loi-binominiale
 simulation d'un ex aleatoire
 
-#nom: bensado
-#prenom : houssem eddine 
-#groupe : 01
+# nom: bensadi.
+# prenom : houssem eddine .
+# groupe : 01.
