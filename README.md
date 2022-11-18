@@ -1,4 +1,4 @@
-# Loi-binominiale
+# Loi-binomiale
 simulation d'un ex aleatoire
 
 # nom: bensadi.
